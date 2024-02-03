@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{83986377-5B88-41AF-9279-22B31854CF98}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GoogleCaptcha.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.758544C5-BF14-4330-A636-280E0C92267D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoogleCaptcha/GoogleCaptcha.iOS/Services/ReCaptchaService.cs">
+    <Files>
+      <File FileName="GoogleCaptcha/GoogleCaptcha/MainPage.xaml.cs" Line="37" Column="59" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha/MainPage.xaml" Line="7" Column="36" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha.Android/Properties/AndroidManifest.xml" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha.Android/CaptchaService/RecaptchaService.cs" Line="16" Column="50" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha/RecaptchaService/IRecaptchaService.cs" Line="8" Column="22" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha.Android/MainActivity.cs" Line="16" Column="47" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha.iOS/AppDelegate.cs" Line="26" Column="42" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha.iOS/Services/ReCaptchaService.cs" Line="55" Column="1" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha.iOS/Services/ReCaptchaWebView.cs" Line="37" Column="1" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha.iOS/Services/recaptcha_ios.html" Line="1" Column="1" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha.iOS/Info.plist" />
+      <File FileName="GoogleCaptcha/GoogleCaptcha.iOS/Main.cs" Line="17" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoogleCaptcha" expanded="True">
+            <Node name="GoogleCaptcha" expanded="True">
+              <Node name="RecaptchaService" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="GoogleCaptcha.Android" expanded="True">
+              <Node name="CaptchaService" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="GoogleCaptcha.iOS" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="ReCaptchaService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_31" />
+  <MonoDevelop.Ide.ItemProperties.GoogleCaptcha.Android PreferredExecutionTarget="Android.pixel_5_-_api_31" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
